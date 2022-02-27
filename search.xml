@@ -27,6 +27,7 @@
 <h2 id="1-4-JDK的下载和安装"><a href="#1-4-JDK的下载和安装" class="headerlink" title="1.4 JDK的下载和安装"></a>1.4 JDK的下载和安装</h2><p>通过官方网站获取JDK<br><a href="http://www.oracle.com/">http://www.oracle.com</a><br>注意：针对不同的操作系统，需要下载对应版本的JDK。<br>具体下载步骤请参见《JDK下载及安装说明文档》</p>
 <h3 id="1-4-2-安装"><a href="#1-4-2-安装" class="headerlink" title="1.4.2 安装"></a>1.4.2 安装</h3><p>傻瓜式安装，下一步即可。但默认的安装路径是在C:\Program Files下，为方便统一管理建议修改安装路径，将与<br>开发相关的软件都安装到一个目录下，例如：E:\develop。<br><strong>注意：</strong>安装路径不要包含中文或者空格等特殊字符（使用纯英文目录）。<br>具体安装步骤请参见《JDK下载及安装说明文档》</p>
 <h3 id="1-4-3-JDK的安装目录介绍"><a href="#1-4-3-JDK的安装目录介绍" class="headerlink" title="1.4.3 JDK的安装目录介绍"></a>1.4.3 JDK的安装目录介绍</h3><img src ="https://github.com/Orangecat10086/Orangecat10086.github.io/tree/master/assets/index_img.jpg">
+<img src ="https://note.youdao.com/s/A3SJpj9y">
 # 2. 第一个演示程序
 ## 2.1 常用DOS命令（应用）
 在接触集成开发环境之前，我们需要使用命令行窗口对java程序进行编译和运行，所以需要知道一些常用DOS命
