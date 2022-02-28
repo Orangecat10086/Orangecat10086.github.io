@@ -120,16 +120,10 @@
         <category>JavaSE-笔记</category>
       </categories>
       <tags>
-        <tag>if语句</tag>
-        <tag>switch语句</tag>
-        <tag>for循环</tag>
-        <tag>while循环</tag>
-        <tag>do while循环</tag>
-        <tag>死循环</tag>
-        <tag>三种循环的区别</tag>
-        <tag>跳转控制语句</tag>
         <tag>循环嵌套</tag>
         <tag>Random</tag>
+        <tag>条件控制语句</tag>
+        <tag>循环语句</tag>
       </tags>
   </entry>
   <entry>
@@ -230,13 +224,8 @@
         <tag>变量</tag>
         <tag>标识符</tag>
         <tag>类型转换</tag>
-        <tag>算术运算符</tag>
-        <tag>赋值运算符</tag>
-        <tag>自增自减运算符</tag>
-        <tag>关系运算符</tag>
-        <tag>逻辑运算符</tag>
-        <tag>三元运算符</tag>
         <tag>数据输入</tag>
+        <tag>运算符</tag>
       </tags>
   </entry>
   <entry>
